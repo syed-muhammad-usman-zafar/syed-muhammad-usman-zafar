@@ -1,47 +1,73 @@
-<h1 align="center">Hi, I'm Usman Zafar 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=1F75FE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Usman+Zafar+%F0%9F%91%8B;Android+Dev+%7C+AI+%7C+Web+Dev;Let's+Build+Together!+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  6th-semester Computer Science Student | Android & AI Enthusiast | Builder
-</p>
-
----
-
-### 👨‍💻 About Me
-
-I'm passionate about building impactful software solutions with expertise in Android development, AI, machine learning, and web technologies. Continuously learning and eager to collaborate on exciting projects.
-
----
-
-### 🛠️ Skills & Technologies
-
-<p align="center">
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="https://developer.android.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/></a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
-  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/></a>
-  <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
-  <a href="https://streamlit.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
-</p>
-
----
-
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/usman--zafar/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/syed-muhammad-usman-zafar">
+    <img src="https://komarev.com/ghpvc/?username=syed-muhammad-usman-zafar&label=Profile+Views&color=1F75FE&style=flat-square" alt="Profile Views"/>
   </a>
 </p>
 
 ---
 
+## 🧠 About Me
+- 🎓 Computer Science student at FAST-NUCES Lahore (6th Semester)  
+- 🔭 Building solutions with **AI/ML**, **Android**, and **Web Dev**  
+- 🌱 Currently working on smart healthcare and automation tools  
+- 💬 Passionate about real-world impact, UI/UX, and hands-on development  
+
+---
+
+🛠️ Tech Stack
+📌 Languages & Programming
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=syed-muhammad-usman-zafar&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile views"/>
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,cpp,c" />
+</p>
+
+### 🌐 Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,tensorflow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45" height="45" alt="Streamlit"/>
+</p>
+
+### 📦 Development Tools & Environments
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,git,github" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="45" height="45" alt="Material Design"/>
+</p>
+
+### 🗄️ Databases & Backend Services
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="SQL"/>
+</p>
+
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syed-muhammad-usman-zafar&show_icons=true&theme=tokyonight&count_private=true&hide=prs" alt="Usman's GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syed-muhammad-usman-zafar&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
 
-Thanks for stopping by! 🚀
+## 🤝 Let's Connect
+<p>
+  <a href="https://www.linkedin.com/in/usman--zafar/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="30"/> <strong>Connect on LinkedIn</strong>
+  </a>
+</p>
+<p>
+  Thanks for visiting my profile! Let's build something amazing together 🚀
+</p>
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F75FE&height=100&section=footer"/>
+</p>
