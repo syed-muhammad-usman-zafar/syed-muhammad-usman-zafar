@@ -17,9 +17,10 @@
 - 💬 Passionate about real-world impact, UI/UX, and hands-on development  
 
 ---
+## 🛠️ Tech Stack
 
-🛠️ Tech Stack
-📌 Languages & Programming
+
+### 📌 Languages & Programming
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,kotlin,cpp,c" />
 </p>
