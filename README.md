@@ -11,7 +11,7 @@
 ---
 
 ## 🧠 About Me
-- 🎓 Computer Science student at FAST-NUCES Lahore (6th Semester)  
+- 🎓 Computer Science student at FAST-NUCES Lahore
 - 🔭 Building solutions with **AI/ML**, **Android**, and **Web Dev**  
 - 🌱 Currently working on smart healthcare and automation tools  
 - 💬 Passionate about real-world impact, UI/UX, and hands-on development  
